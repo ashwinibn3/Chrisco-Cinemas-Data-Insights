@@ -1,7 +1,6 @@
 # Chrisco-Cinemas: End-to-End Data Insights
 
 This project is a hands-on exploration of cinema operations, where I analyzed 10,000+ records to uncover seasonal patterns, resource inefficiencies, and marketing blind spots — using **Python, Power BI, Tableau, and Excel**.
-
 I didn’t just build dashboards — I asked, *“What would I do if this were my business?”*
 
 ## Highlights
@@ -28,7 +27,7 @@ Power BI · Tableau · Python · Pandas · Seaborn · Excel · DAX
 -Visualized marketing ROI improvements (~20%)  
 -Developed a full-stack analytics case study
 
-Thanks for reading!
+
 
 
 
